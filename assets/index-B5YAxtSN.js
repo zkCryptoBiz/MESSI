@@ -10312,7 +10312,7 @@ const Ad = ({ className: d }) => {
           className: "flex flex-col items-center justify-center mt-4",
           children: [
             G.jsxs("div", {
-              className: "flex items-center cursor-pointer mb-4",
+              className: "bg flex items-center cursor-pointer mb-4",
               onClick: S,
               children: [
                 G.jsx("p", {
@@ -10351,15 +10351,7 @@ const Ad = ({ className: d }) => {
                 }),
               ],
             }),
-            G.jsx("div", {
-              className: "flex justify-center w-full items-center gap-0 mt-4",
-              children: G.jsx("p", {
-                className:
-                  "text-[#1d1e2a] text-[14px] bg-clip-text inline-block text-center break-words",
-                children:
-                  'CR7 memes symbolize support and engagement with the ideas behind the "$CR7" token. They are not an investment tool or any form of security. CR7 Memes are unrelated to the footballer or his career. See details on the website.',
-              }),
-            }),
+
           ],
         }),
       ],

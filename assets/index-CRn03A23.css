@@ -370,7 +370,7 @@ video {
 }
 
 .bottom-\[14vh\] {
-    bottom: 14vh
+    bottom: 6vh
 }
 
 .left-\[0\.4vw\] {
@@ -493,7 +493,12 @@ video {
 .resize {
     resize: both
 }
+.bg{
+    background-color: black;
+    padding: 4px;
+    border-radius: 50px;
 
+}
 .grid-cols-1 {
     grid-template-columns: repeat(1, minmax(0, 1fr))
 }
@@ -656,7 +661,7 @@ video {
 
 .text-\[\#1d1e2a\] {
     --tw-text-opacity: 1;
-    color: rgb(29 30 42 / var(--tw-text-opacity, 1))
+    color: white;
 }
 
 .text-\[\#ebae0c\] {
