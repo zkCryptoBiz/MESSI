@@ -10203,7 +10203,7 @@ function Vi(...d) {
 const Ad = ({ className: d }) => {
     const [v, c] = zr.useState(!1),
       S = () => {
-        navigator.clipboard.writeText("xxxxxxx").then(() => {
+        navigator.clipboard.writeText("i3huKSMYWeegJK1mrmgB6T1REdUq8Cp9QBoxXGsqaus").then(() => {
           c(!0), setTimeout(() => c(!1), 2e3);
         });
       };
@@ -10226,7 +10226,7 @@ const Ad = ({ className: d }) => {
                   G.jsx("p", {
                     className:
                       "bg-gradient-to-r from-[#3e3e3f] to-[#000] font-bold text-[1.5vw] text-transparent bg-clip-text inline-block text-left",
-                    children: "xxxxxxx",
+                    children: "i3huKSMYWeegJK1mrmgB6T1REdUq8Cp9QBoxXGsqaus",
                   }),
                   G.jsx("img", {
                     src: v ? "/copied2.svg" : "/copy2.svg",
@@ -10260,7 +10260,7 @@ const Ad = ({ className: d }) => {
                   children: [
                     G.jsx("a", {
                       target: "_blank",
-                      href: "https://dexscreener.com/solana/xxxxxxx",
+                      href: "https://dexscreener.com/solana/i3huKSMYWeegJK1mrmgB6T1REdUq8Cp9QBoxXGsqaus",
                       className:
                         "text-[1vw] mw800:text-[10px] text-[#fff] font-bold cursor-pointer hover:text-[#ffffff]/98 transition-all duration-300 py-4 flex items-center justify-center text-center",
                       children: G.jsx("button", {
@@ -10292,7 +10292,7 @@ const Ad = ({ className: d }) => {
   Vd = ({ className: d }) => {
     const [v, c] = zr.useState(!1),
       S = () => {
-        navigator.clipboard.writeText("xxxxxxx").then(() => {
+        navigator.clipboard.writeText("i3huKSMYWeegJK1mrmgB6T1REdUq8Cp9QBoxXGsqaus").then(() => {
           c(!0), setTimeout(() => c(!1), 2e3);
         });
       };
@@ -10318,7 +10318,7 @@ const Ad = ({ className: d }) => {
                 G.jsx("p", {
                   className:
                     "text-[#1d1e2a] font-bold text-[3.4vw] bg-clip-text inline-block break-all",
-                  children: "xxxxxxx",
+                  children: "i3huKSMYWeegJK1mrmgB6T1REdUq8Cp9QBoxXGsqaus",
                 }),
                 G.jsx("img", {
                   src: v ? "/copied2.svg" : "/copy2.svg",
@@ -10331,7 +10331,7 @@ const Ad = ({ className: d }) => {
               children: [
                 G.jsx("a", {
                   target: "_blank",
-                  href: "https://dexscreener.com/solana/xxxxxxx",
+                  href: "https://dexscreener.com/solana/i3huKSMYWeegJK1mrmgB6T1REdUq8Cp9QBoxXGsqaus",
                   className: "w-[40vw] flex justify-center",
                   children: G.jsx("button", {
                     className:
