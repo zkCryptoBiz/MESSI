@@ -10271,7 +10271,7 @@ const Ad = ({ className: d }) => {
                     }),
                     G.jsx("a", {
                       target: "_blank",
-                      href: "https://www.dextools.io/app/en/solana/pair-explorer/",
+                      href: "https://www.dextools.io/app/en/solana/pair-explorer/GMbNPrbBJoqniiqPah9AuhtY1NitKknQ2FSgkbDJHCTG",
                       className:
                         "text-[1vw] mw800:text-[10px] text-[#fff] font-bold cursor-pointer hover:text-[#ffffff]/98 transition-all duration-300 py-4 flex items-center justify-center text-center",
                       children: G.jsx("button", {
@@ -10341,7 +10341,7 @@ const Ad = ({ className: d }) => {
                 }),
                 G.jsx("a", {
                   target: "_blank",
-                  href: "https://www.dextools.io/app/en/solana/pair-explorer/",
+                  href: "https://www.dextools.io/app/en/solana/pair-explorer/GMbNPrbBJoqniiqPah9AuhtY1NitKknQ2FSgkbDJHCTG",
                   className: "w-[40vw] flex justify-center",
                   children: G.jsx("button", {
                     className:
